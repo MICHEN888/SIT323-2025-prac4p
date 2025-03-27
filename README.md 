@@ -1,0 +1,23 @@
+# Simple Calculator Microservice
+
+This is a simple calculator microservice built using Node.js and Express. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division via RESTful API endpoints.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Error Handling](#error-handling)
+- [Contributing](#contributing)
+
+## Installation
+
+### Prerequisites
+Ensure that you have the following installed:
+- [Node.js](https://nodejs.org/en/download/)
+- [Git](https://git-scm.com/)
+- A code editor such as [Visual Studio Code](https://code.visualstudio.com/)
+
+### Steps to Install
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/sit323-2025-prac4p.git
